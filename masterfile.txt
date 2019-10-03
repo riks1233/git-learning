@@ -3,3 +3,4 @@ second line (branch master, PC_A)
 second line (login branch, PC_B)
 
 teresibe minu nimi on alpa the login branch, pc_b
+ASDC sada ow (im on master and i ma pc_A)
