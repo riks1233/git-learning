@@ -6,6 +6,5 @@ Case 1:
 * PC_A then modifies a file and pushes to the repo
 * PC_B checkouts master branch and tries merging locally
 * PC_B tries pushing to the repo
-	
-	Outcome:
-		The outcome is equivalent to as if PC_B was only changing master branch. "login" branch is not recorded in the repository, seems to have been deleted during the merge.
+_Outcome:_
+The outcome is equivalent to as if PC_B was only changing master branch. "login" branch is not recorded in the repository, seems to have been deleted during the merge.
